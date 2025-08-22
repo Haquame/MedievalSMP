@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0.4</version>
+  <url>https://github.com/Haquame/MedievalSMP/releases/download/v1.0.4/MedievalSMP.zip</url>
+  <changelog>https://github.com/Haquame/MedievalSMP/releases</changelog>
+  <mandatory>true</mandatory>
+  <checksum algorithm="SHA256">97E77103001B2F02694C1C89FC590110386894C5A8A6EBED051615E1C5665AE4</checksum>
+</item>
